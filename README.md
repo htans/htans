@@ -15,9 +15,9 @@ New messages are always welcome!!! :)
 <br/>
 
 ### 👞 Experience
-- **Space Solution Research Institute** - Frontend Developer *(May 2021 ~)*
+- **Space Solution** - Frontend Developer *(May 2021 ~)*
 - **ForYouJOB** - Frontend Developer *(Jul 2020 ~)*
-- **WooJinKorecen Research Institute** - Frontend Developer *(May) 2019 - Jul 2020)*
+- **WooJinKorecen** - Frontend Developer *(May) 2019 - Jul 2020)*
 
 <br/>  
 
