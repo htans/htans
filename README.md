@@ -32,6 +32,14 @@ New messages are always welcome!!! :)
 - 🌱 I'm currently learning web development, value of use, and problem solving.
 - 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) with cool developers.
 
+<div sttyle='float:left'>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" />  
+</div>
 
 <!--
 **htans/htans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
