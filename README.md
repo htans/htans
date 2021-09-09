@@ -1,4 +1,19 @@
 ### Hi there 👋
+<br>    
+
+<a href="https://github.com/htans1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
+
+### HI, I'm DeokKeun Song!
+
+I am interested in web develop and solution value of use. 
+I love Game and communicating! 
+
+If you want to contact me, please leave me a message.
+New messages are always welcome!!! :) 
+<br/>
 
 <!--
 **htans/htans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
