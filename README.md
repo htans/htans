@@ -32,7 +32,7 @@ New messages are always welcome!!! :)
 - 🌱 I'm currently learning web development, value of use, and problem solving.
 - 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) with cool developers.
 
-<div sttyle='float:left'>
+<div sttyle='float:right'>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
   
   
