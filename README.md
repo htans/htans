@@ -46,21 +46,19 @@ New messages are always welcome!!! :)
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
   
+
+  <br/>  
+
   
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htans)](https://github.com/anuraghazra/github-readme-stats)
+</td><td valign="top" width="50%">
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=htans)  
+</td></tr></table>  
+<br/>  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 </div>
 
 <!--
