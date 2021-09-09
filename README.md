@@ -45,7 +45,7 @@ New messages are always welcome!!! :)
 <br/>  
 
 ## Github Stats  
-![GitHub metrics](https://metrics.lecoq.io/htans)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=htans)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>  
