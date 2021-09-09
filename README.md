@@ -47,15 +47,8 @@ New messages are always welcome!!! :)
 ## Github Stats  
 <table>
    <tr>
-     <td valign="top" width="50%">
-      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)
-       
-     </td>
-     <td valign="top" width="50%">
-       
-      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)
-       
-     </td>
+     <td valign="top" width="100%">
+      ![GitHub metrics](https://metrics.lecoq.io/htans)  
   </tr>
 </table>  
 
