@@ -10,7 +10,7 @@
 I am interested in web develop and solution value of use. <br/>
 I love Game and communicating! 
 
-If you want to contact me, please leave me a message.<br>
+If you want to contact me, please leave me a message<br>
 New messages are always welcome!!! :) 
 
 
@@ -30,7 +30,7 @@ New messages are always welcome!!! :)
 
 - 📝 I’m currently working on [Space Solution](https://www.spacesolution.kr/) as a Frontend Developer.
 - 🌱 I'm currently learning web development, value of use, and problem solving.
-- 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) with cool developers..  
+- 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) with cool developers.
 
 
 <!--
