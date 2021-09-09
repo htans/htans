@@ -1,5 +1,3 @@
-<br/>
-
 ## Hi There 👋  
 
 <a href="https://github.com/htans1" target="_blank">
