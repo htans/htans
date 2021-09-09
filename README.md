@@ -52,7 +52,9 @@ New messages are always welcome!!! :)
        
      </td>
      <td valign="top" width="50%">
-      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
+       
+      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)
+       
      </td>
   </tr>
 </table>  
