@@ -48,7 +48,9 @@ New messages are always welcome!!! :)
 <table>
    <tr>
      <td valign="top" width="50%">
-      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=htans)
+       
+      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
+       
      </td>
      <td valign="top" width="50%">
       ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
