@@ -4,7 +4,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-
 ### HI, I'm DeokKeun Song!
 
 I am interested in web develop and solution value of use. <br/>
@@ -13,18 +12,14 @@ I love Game and communicating!
 If you want to contact me, please leave me a message<br>
 New messages are always welcome!!! :) 
 
-
 <br/>
-
 
 ### 👞 Experience
 - **Space Solution Research Institute** - Frontend Developer *(May 2021 ~)*
 - **ForYouJOB** - Frontend Developer *(Jul 2020 ~)*
 - **WooJinKorecen Research Institute** - Frontend Developer *(May) 2019 - Jul 2020)*
 
-
 <br/>  
-
 
 ### 🪐 Summary
 
@@ -45,24 +40,25 @@ New messages are always welcome!!! :)
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
-  
+</div>
 
-  <br/>  
+<br/>  
 
-  
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
-  
-</td><td valign="top" width="50%">
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=htans)  
-</td></tr></table>  
+<table>
+   <tr>
+     <td valign="top" width="50%">
+      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=htans)  
+     </td>
+     <td valign="top" width="50%">
+      ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)   
+     </td>
+  </tr>
+</table>  
+
 <br/>  
   
 
-</div>
 
 <!--
 **htans/htans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
