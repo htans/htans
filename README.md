@@ -52,7 +52,9 @@ New messages are always welcome!!! :)
   
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htans)](https://github.com/anuraghazra/github-readme-stats)
+  
 </td><td valign="top" width="50%">
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=htans)  
