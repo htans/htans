@@ -47,9 +47,6 @@ New messages are always welcome!!! :)
 ## Github Stats  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
 
-- name: productive-box
-  uses: maxam2017/productive-box@v1.1.1
-
 <br/>  
   
 
