@@ -45,12 +45,8 @@ New messages are always welcome!!! :)
 <br/>  
 
 ## Github Stats  
-<table>
-   <tr>
-     <td valign="top" width="100%">
-      ![GitHub metrics](https://metrics.lecoq.io/htans)  
-  </tr>
-</table>  
+![GitHub metrics](https://metrics.lecoq.io/htans)  
+
 
 <br/>  
   
