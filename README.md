@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
- 
 <br/>
 
 <a href="https://github.com/htans1" target="_blank">
