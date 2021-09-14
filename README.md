@@ -45,10 +45,21 @@ New messages are always welcome!!! :)
 <br/>  
 
 ## Github Stats  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
 
 <br/>  
-  
+ 
+ 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
+
+
+</td><td valign="top" width="50%">
+
+
+</td></tr></table>  
+ 
 
 
 <!--
