@@ -43,10 +43,6 @@ New messages are always welcome!!! :)
 </div>
 
 <br/>  
-
-## Github Stats  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=htans)  
-<br/>  
  
  
 <!-- 
