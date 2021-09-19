@@ -42,7 +42,7 @@ New messages are always welcome!!! :)
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
 </div>
 
-<br/>  
+<br/>   
  
  
 <!-- 
