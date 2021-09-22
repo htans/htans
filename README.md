@@ -21,7 +21,7 @@ New messages are always welcome!!! :)
 
 <br/>  
 
-### 🪐 Summary
+### 🪐 Summary 
 
 - 📝 I’m currently working on [Space Solution](https://www.spacesolution.kr/) as a Frontend Developer.
 - 🌱 I'm currently learning web development, value of use, and problem solving.
