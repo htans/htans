@@ -7,7 +7,7 @@
 ### HI, I'm DeokKeun Song!
 
 I am interested in web develop and solution value of use. <br/>
-I love Apex L<egends and Dev R&D! 
+I love Apex Legends and Dev R&D! 
 
 If you want to contact me, please leave me a message<br>
 New messages are always welcome!!! :) 
