@@ -25,7 +25,7 @@ New messages are always welcome!!! :)
 
 - 📝 I’m currently working on [Space Solution](https://www.spacesolution.kr/) as a Frontend Developer.
 - 🌱 I'm currently learning web development, value of use, and problem solving.
-- 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/)
+<!-- - 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) --> 
 
 <div sttyle='float:right'>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
