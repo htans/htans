@@ -15,8 +15,8 @@ New messages are always welcome!!! :)
 <br/>
 
 ### 👞 Experience
-- **Space Solution** - Full Developer *(May 2021 ~)*
-- **ForYouJOB** - Full Developer *(Jul 2020 ~)*
+- **Space Solution** - Full-Stack Developer *(May 2021 ~)*
+- **ForYouJOB** - Full-Stack Developer *(Jul 2020 ~)*
 - **WooJinKorecen** - Frontend Developer *(May) 2019 - Jul 2020)*
 
 <br/>  
