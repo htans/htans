@@ -22,7 +22,7 @@ New messages are always welcome!!! :)
 
 ### 🪐 Summary 
 
-- 📝 I’m currently working on [Space Solution](https://www.spacesolution.kr/) as a Frontend Developer.
+- 📝 I’m currently working on [Space Solution](https://www.spacesolution.kr/) as a Full-Stack Developer.
 - 🌱 I'm currently learning web development, value of use, and problem solving.
 <!-- - 🔥 I'm developing [ForYouJOB](http://foryoujob.co.kr/) --> 
 
