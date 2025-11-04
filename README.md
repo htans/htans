@@ -12,9 +12,9 @@ If you want to contact me, please leave me a message.<br>
 New messages are always welcome! :)
 
 ### 👞 Experience
-- **ForYouJOB** - Full-Stack Developer *(Portfolio Project, Jul 2019 ~ )*
-- **Space Solution** - Full-Stack Developer *(May 2021 ~ June 2025)*
-- **WooJinKorecen** - Back-End Developer *(May 2019 ~ Jul 2020)*
+- **ForYouJOB** - Full-Stack Developer *(Portfolio Project, 2019.07 ~ Ing )*
+- **Space Solution** - Full-Stack Developer *(2021.05 ~ 2025.06)*
+- **WooJinKorecen** - Back-End Developer *(2019.05 ~ 2020.07)*
 
 ### 🪐 Summary 
 
