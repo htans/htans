@@ -13,7 +13,7 @@ New messages are always welcome! :)
 
 ### 👞 Experience
 - **The Nature Holdings** - Full-Stack Developer *(2026.03 ~ Ing)*
-- **ForYouJOB** - Full-Stack Developer *(Portfolio Project, 2019.07 ~ Ing )*
+- **ForYouJOB** - Full-Stack Developer *(Portfolio Project, 2019.07 ~ Ing)*
 - **Space Solution** - Full-Stack Developer *(2021.05 ~ 2025.06)*
 - **WooJinKorecen** - Back-End Developer *(2019.05 ~ 2020.07)*
 
