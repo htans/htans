@@ -102,26 +102,23 @@
 
 ## ⏱️ Log
 
-<table>
-  <tr>
-    <th align="left" width="50%">EXPERIENCE</th>
-    <th align="left" width="50%">EDUCATION &amp; POINT</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <code>2026 - Now</code> &nbsp;<b>The Nature Holdings</b><br/><sub>Full-Stack Developer</sub><br/><br/>
-      <code>2021 - 2025</code> &nbsp;<b>Space Solution</b><br/><sub>Full-Stack Developer</sub><br/><br/>
-      <code>2021 - 2021</code> &nbsp;<b>USFK</b><br/><sub>Back-End Developer</sub><br/><br/>
-      <code>2019 - 2020</code> &nbsp;<b>WooJin Korecen</b><br/><sub>Back-End Developer</sub>
-    </td>
-    <td valign="top">
-      <code>2026</code> &nbsp;<b>학점은행제</b><br/><sub>컴퓨터공학과(4년제) - 공학사 학위 졸업</sub><br/><br/>
-      <code>2019</code> &nbsp;<b>데브 기어</b><br/><sub>델파이(C++) 정규 교육 이수</sub><br/><br/>
-      <code>2019</code> &nbsp;<b>수원과학대</b><br/><sub>컴퓨터정보과(3년제) - 준학사 학위 졸업</sub><br/><br/>
-      <code>2016</code> &nbsp;<b>대한민국 해병대 - 1193기</b><br/><sub>(2015.01 ~ 2016.10) - 만기전역</sub>
-    </td>
-  </tr>
-</table>
+**EXPERIENCE**
+
+| 기간 | 회사 | 역할 |
+|:--|:--|:--|
+| `2026 - Now` | **The Nature Holdings** | Full-Stack Developer |
+| `2021 - 2025` | **Space Solution** | Full-Stack Developer |
+| `2021 - 2021` | **USFK** | Back-End Developer |
+| `2019 - 2020` | **WooJin Korecen** | Back-End Developer |
+
+**EDUCATION & POINT**
+
+| 연도 | 항목 | 내용 |
+|:--|:--|:--|
+| `2026` | **학점은행제** | 컴퓨터공학과(4년제) - 공학사 학위 졸업 |
+| `2019` | **데브 기어** | 델파이(C++) 정규 교육 이수 |
+| `2019` | **수원과학대** | 컴퓨터정보과(3년제) - 준학사 학위 졸업 |
+| `2016` | **대한민국 해병대 - 1193기** | (2015.01 ~ 2016.10) - 만기전역 |
 
 <br/>
 
