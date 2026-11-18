@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LOLKD">
+  <!-- 마크 (2026-11-17 리뉴얼, 2차에 금색으로): 네모 틀 안의 오르는 막대 셋 = 촘촘한 숫자와 표. 모양은 게임 공식 로고와 관계없는 우리 것, 색은 게임 대표색(금색, 남색) -->
+  <rect x="3" y="3" width="58" height="58" rx="6" fill="#0A1428" stroke="#C8AA6E" stroke-width="4"/>
+  <rect x="15" y="34" width="8" height="15" fill="#C8AA6E"/>
+  <rect x="28" y="25" width="8" height="24" fill="#C8AA6E"/>
+  <rect x="41" y="15" width="8" height="34" fill="#F0E6D2"/>
+</svg>

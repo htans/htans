@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PubgKD">
+  <!-- 마크 (2026-11-17 2차 개편): 노란 네모 + 검정 조준경 모서리 네 개 + 가운데 검정 보급 상자 (배그 노랑, 검정) -->
+  <rect width="64" height="64" fill="#F2A900"/>
+  <path fill="#000" d="M8 8h16v6h-10v10h-6zM56 8h-16v6h10v10h6zM8 56h16v-6h-10v-10h-6zM56 56h-16v-6h10v-10h6z"/>
+  <rect x="22" y="22" width="20" height="20" fill="#000"/>
+  <rect x="22" y="27" width="20" height="3" fill="#F2A900"/><rect x="30.5" y="22" width="3" height="5" fill="#F2A900"/>
+</svg>

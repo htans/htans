@@ -61,10 +61,30 @@
       <p>발로란트 전적 검색과 경기 분석. 요원 메타, 조준점 코드, 리더보드를 볼 수 있습니다.<br/><sub>valkd.com</sub></p>
     </td>
     <td valign="top">
+      <img src="assets/lolkd-icon.svg" width="40" align="left" alt="" />
+      <a href="https://lolkd.com"><b>LolKD</b></a> &nbsp;<sub><code>NEW</code></sub>
+      <p>리그 오브 레전드와 TFT 정보 사이트. 패치 비교, 아이템 골드 효율, 멀티서치, 듀오 찾기를 볼 수 있습니다.<br/><sub>lolkd.com</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="assets/owkd-icon.svg" width="40" align="left" alt="" />
+      <a href="https://overkd.com"><b>OwKD</b></a> &nbsp;<sub><code>NEW</code></sub>
+      <p>오버워치 2 전적 검색과 영웅 메타. 블리자드 공식 통계 티어표, 영웅 상성 투표, 팀 조합 빌더가 있습니다.<br/><sub>overkd.com</sub></p>
+    </td>
+    <td valign="top">
+      <img src="assets/pubgkd-icon.svg" width="40" align="left" alt="" />
+      <a href="https://pubgkd.com"><b>PubgKD</b></a> &nbsp;<sub><code>NEW</code></sub>
+      <p>배틀그라운드 전적 검색. 2D 리플레이, 낙하와 킬 집계 지도, 리더보드를 볼 수 있습니다.<br/><sub>pubgkd.com</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <img src="assets/home-icon.svg" width="40" align="left" alt="" />
       <a href="https://www.deokkeunsong.com"><b>deokkeunsong.com</b></a>
       <p>작업, 쓰는 장비, 취미를 기록하는 개인 홈페이지. 이 README의 디자인도 여기서 왔습니다.<br/><sub>Personal Homepage</sub></p>
     </td>
+    <td valign="top"></td>
   </tr>
 </table>
 
